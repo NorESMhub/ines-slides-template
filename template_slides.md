@@ -6,6 +6,19 @@ class: center, middle
 
 ---
 
+layout: true
+
+.header-content[&nbsp;<font color="white">INES</font>]
+
+<div id="footer-content">
+  <p>
+   &nbsp; <img src="img/ines_logo.png" style="width: 50px;"/>
+   &nbsp; <font color="white">INES</font>
+  </p>
+</div>
+
+---
+
 ## Another slide
 
 Try **F** and **P** keys.
