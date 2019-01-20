@@ -13,7 +13,7 @@ layout: true
 <div id="footer-content">
   <p>
    &nbsp; <img src="img/ines_logo.png" style="width: 50px;"/>
-   &nbsp; <font color="white">INES</font>
+   &nbsp; <font color="white">INES 2019</font>
   </p>
 </div>
 
